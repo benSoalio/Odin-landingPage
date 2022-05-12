@@ -197,3 +197,14 @@ p strong {
 .container p {
     color: #F9FAF8;
 }
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
+}
+
+.footer p {
+    color: #F9FAF8;
+}
